@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: If you use or adapt the SAN TOMMASO prompt, please cite this release; use the Zenodo version-specific DOI once available.
+title: 'SAN TOMMASO: A Single Integrated Prompt for Source-Traceable Scientific Manuscript Auditing'
+version: '0.6'
+type: software
+license: CC-BY-4.0
+authors:
+- family-names: Taffache
+  given-names: Paolo
+  affiliation: General and Pediatric Anesthesia and Intensive Care Unit, IRCCS Azienda Ospedaliero-Universitaria di Bologna
+abstract: Unvalidated, freely reusable single master prompt designed to coordinate source-traceable draft audits of scientific
+  manuscripts across 17 proposed domains, with explicit access limitations, evidence-ledger records, staged output and human
+  adjudication. No empirical performance or effectiveness claim is made.
+keywords:
+- research integrity
+- manuscript auditing
+- large language models
+- source verification
+- human-in-the-loop
+- experimental prompt
+- reproducibility
